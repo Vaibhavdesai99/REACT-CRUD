@@ -1,8 +1,8 @@
 import React from "react";
 // Imported React router dom
-import Create from "./Components/Create";
+import Create from "./Components/CRUD/Create";
 import { Routes, Route } from "react-router-dom";
-import Read from "./Components/Read";
+import Read from "./Components/CRUD/Read";
 import UpdateData from "./Components/UpdateData";
 
 function App() {
